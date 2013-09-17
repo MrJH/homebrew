@@ -2,8 +2,9 @@ require 'formula'
 
 class Postgis < Formula
   homepage 'http://postgis.net'
-  url 'http://download.osgeo.org/postgis/source/postgis-2.1.0.tar.gz'
-  sha1 'e8a428348e93f204fdf4838ebedcad9306b29a5e'
+  url 'http://postgis.refractions.net/download/postgis-1.5.3.tar.gz'
+  md5 '05a61df5e1b78bf51c9ce98bea5526fc'
+
 
   head 'http://svn.osgeo.org/postgis/trunk/'
 
